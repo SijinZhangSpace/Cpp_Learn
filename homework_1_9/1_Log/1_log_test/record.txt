@@ -1,0 +1,5 @@
+2024-01-11 00:42:48,685 [WARN] log_test: FileName: log_test.cc; Line: 58; InFunc: warn || The log is warn message 
+2024-01-11 00:42:48,685 [INFO] log_test: FileName: log_test.cc; Line: 118; InFunc: info || The log is info message 
+2024-01-11 00:42:48,685 [ERROR] log_test: FileName: log_test.cc; Line: 70; InFunc: error || The log is error message 
+2024-01-11 00:42:48,685 [FATAL] log_test: FileName: log_test.cc; Line: 82; InFunc: fatal || The log is fatal message 
+2024-01-11 00:42:48,685 [CRIT] log_test: FileName: log_test.cc; Line: 94; InFunc: crit || The log is crit message 
